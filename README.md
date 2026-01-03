@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Tushar</h1>
+<h3 align="center">React Native Developer | React.js Experience | 3.5+ Years</h3>
+
+<p align="center">
+  Building scalable mobile (Android & iOS) and web applications using React Native, React.js, TypeScript, and GraphQL.
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working as a React Native Developer, building scalable mobile apps for Android and iOS.<br><br>👯 I’m looking to collaborate on React Native projects, especially related to performance optimization and clean architecture.<br><br>🤝 I’m looking for help with advanced React Native performance tuning and testing best practices.<br><br>🌱 I’m currently learning advanced React Native patterns, TypeScript, and app optimization techniques.<br><br>💬 Ask me about React Native, TypeScript, Apollo Client, GraphQL, and mobile app architecture.<br><br>⚡ Fun fact: I enjoy refactoring code to make it cleaner, faster, and more maintainable.<br>
 
